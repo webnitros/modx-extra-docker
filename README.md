@@ -1,4 +1,4 @@
-# Creating an application for MODX Revolution 2 in Docker
+# Creating an components for MODX Revolution 2 in Docker
 
 Rapid application deployment for MODX Revolution 2
 
