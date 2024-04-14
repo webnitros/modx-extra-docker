@@ -1,4 +1,4 @@
-### Create MODX Extra
+# Create MODX Extra
 
 Rapid application deployment for MODX Revolution 2
 
