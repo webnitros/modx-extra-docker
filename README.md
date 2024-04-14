@@ -5,6 +5,7 @@ Rapid application deployment for MODX Revolution 2
 ```shell
 cp .env.example .env
 ```
+
 Change your package name `PACKAGE_NAME=myExtra` [.env](.env)
 
 ## Fast start
@@ -27,13 +28,13 @@ make package-create-new # Rename package from .env PACKAGE_NAME
 make remake
 ```
 
-# Build package for repository
+### Build transport package for dev
 
 ```shell
 make package-build  
 ```
 
-# Install package system
+### Install package system
 
 ```shell
 make package-install 
