@@ -60,3 +60,7 @@ Default:
 ```shell
 make package-build-deploy # your zip pack to dist ./target
 ```
+
+### All commands
+
+See [Makefile](Makefile)

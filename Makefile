@@ -5,7 +5,7 @@ help:
 	@echo "usage: make COMMAND:"
 	@echo ""
 	@echo "Commands:"
-	@echo "  install        Сборка контенера и установка всех зависимостей s"
+	@echo "  run-app        Fast Start"
 
 install:
 	@make build
