@@ -74,7 +74,7 @@ package-target-clear:
 package-deploy:
 	@make package-target-clear
 	@make package-build
-	@make package-build-encryption
+	@make package-build-deploy
 
 
 package-create-new:
